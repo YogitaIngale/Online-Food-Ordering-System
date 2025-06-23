@@ -91,4 +91,4 @@ NoshNest/ <br>
 
 ----------------------------
 <br>
-💡 Tip: All files are available here.<br>
+💡 Tip: All files are NOT available here.<br>
