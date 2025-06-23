@@ -1,0 +1,111 @@
+body {
+	background-image: url(/Images/LoginBackground.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+/* Container Split Layout */
+.LoginContainer {
+	display: flex;
+	height: 100vh;
+	width: 100%;
+}
+
+/* Common Panel Style */
+.user, .admin {
+	width: 50%;
+	padding: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #444;
+	font-size: 20px;
+	letter-spacing: 0.5px;
+	text-align: center;
+	box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+/* User Side */
+.user {
+	background: rgba(255, 248, 240, 0.788);
+}
+
+/* Admin Side */
+.admin {
+	background: linear-gradient(135deg, #f8fff8cc, #d0f5d2);
+}
+
+/* Titles */
+.admin h2, .user h2 {
+	margin-bottom: 20px;
+	font-size: 2rem;
+	color: #2c3e50;
+}
+
+/* Input Field */
+input {
+	background: transparent;
+	border: none;
+	border-bottom: 2px solid #2c3e50;
+	padding: 12px 10px;
+	color: seagreen;
+	font-size: 16px;
+	width: 220px;
+	transition: 0.4s ease-in-out;
+	margin-bottom: 20px;
+}
+
+input:focus {
+	border-color: seagreen;
+	outline: none;
+}
+
+/* Input Hover Effect */
+input:hover {
+	width: 300px;
+	border-color: rgb(143, 188, 143);
+}
+
+/* Label/Info Box */
+strong {
+	display: inline-block;
+	padding: 8px 15px;
+	background-color: #804040;
+	color: antiquewhite;
+	font-size: 14px;
+	border-radius: 5px;
+	margin-top: 10px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Login Button */
+.loginButton {
+	margin-top: 10px;
+	padding: 10px 20px;
+	border: 2px solid seagreen;
+	background-color: transparent;
+	color: seagreen;
+	font-weight: bold;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: 0.3s ease-in-out;
+	font-size: 15px;
+}
+
+.loginButton:hover {
+	background-color: seagreen;
+	color: #fff;
+	transform: scale(1.05);
+	box-shadow: 0 4px 10px rgba(0, 128, 0, 0.3);
+}
+
+/* Optional Content Placement */
+.content {
+	text-align: left;
+	max-width: 350px;
+}

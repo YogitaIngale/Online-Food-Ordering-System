@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NoshNest</title> 
+    <link rel="icon" type="image/x-icon" href="./Images/logo.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" th:href="@{/css/Navigation.css}" />
+    <link rel="stylesheet" th:href="@{/css/Products.css}" />
+</head>
+
+<body>
+    <nav th:replace="~{Navigation::navbar()}"></nav>
+
+    <div id="main-container">
+
+        <!-- Starters -->
+        <section>
+            <h2>Starters</h2>
+            <div class="menu-category">
+                <div class="item-card">
+                    <div class="card-top">
+                        <i class="fa fa-star" id="rating">4.5</i>
+                        <i class="fa fa-heart-o add-to-cart"></i>
+                    </div>
+                    <img src="./Images/veg_spring_rolls.jpg" alt="Veg Spring Rolls">
+                    <p class="item-name">Veg Spring Rolls</p>
+                    <p class="item-price">Price: Rs 99</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top">
+                        <i class="fa fa-star" id="rating">5.0</i>
+                        <i class="fa fa-heart-o add-to-cart"></i>
+                    </div>
+                    <img src="./Images/paneer-tikka.jpg" alt="Paneer Tikka">
+                    <p class="item-name">Paneer Tikka</p>
+                    <p class="item-price">Price: Rs 149</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Course - Veg -->
+        <section>
+            <h2>Main Course – Veg</h2>
+            <div class="menu-category">
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.5</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/paneer/paneer-butter-masala.jpg" alt="Paneer Butter Masala">
+                    <p class="item-name">Paneer Butter Masala</p>
+                    <p class="item-price">Price: Rs 199</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.3</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/mix-veg.jpg" alt="Mix Veg Curry">
+                    <p class="item-name">Mix Veg Curry</p>
+                    <p class="item-price">Price: Rs 149</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.0</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/dal-tadka.jpg" alt="Dal Tadka">
+                    <p class="item-name">Dal Tadka</p>
+                    <p class="item-price">Price: Rs 129</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Course - Non-Veg -->
+        <section>
+            <h2>Main Course – Non-Veg</h2>
+            <div class="menu-category">
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">5.0</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/chicken/butter-chicken.jpg" alt="Butter Chicken">
+                    <p class="item-name">Butter Chicken</p>
+                    <p class="item-price">Price: Rs 229</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.7</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/chicken/Afgani-chicken-curry.jpg" alt="Afgani Chicken">
+                    <p class="item-name">Afgani Chicken</p>
+                    <p class="item-price">Price: Rs 410</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.8</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/chicken/Tandoori-chicken-tikka.jpg" alt="Chicken Tikka">
+                    <p class="item-name">Chicken Tikka</p>
+                    <p class="item-price">Price: Rs 310</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Fast Food -->
+        <section>
+            <h2>Fast Food</h2>
+            <div class="menu-category">
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.5</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/veg-burger.jpg" alt="Veg Burger">
+                    <p class="item-name">Veg Burger</p>
+                    <p class="item-price">Price: Rs 89</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">5.0</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/margherita.jpg" alt="Margherita Pizza">
+                    <p class="item-name">Margherita Pizza</p>
+                    <p class="item-price">Price: Rs 149</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Beverages -->
+        <section>
+            <h2>Beverages</h2>
+            <div class="menu-category">
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.5</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/cold-coffee.jpg" alt="Cold Coffee">
+                    <p class="item-name">Cold Coffee</p>
+                    <p class="item-price">Price: Rs 69</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.0</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/fresh-lime.jpg" alt="Fresh Lime Soda">
+                    <p class="item-name">Fresh Lime Soda</p>
+                    <p class="item-price">Price: Rs 49</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Desserts -->
+        <section>
+            <h2>Desserts</h2>
+            <div class="menu-category">
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">5.0</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/brownie.jpg" alt="Brownie with Ice Cream">
+                    <p class="item-name">Brownie with Ice Cream</p>
+                    <p class="item-price">Price: Rs 119</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+                <div class="item-card">
+                    <div class="card-top"><i class="fa fa-star" id="rating">4.0</i><i class="fa fa-heart-o add-to-cart"></i></div>
+                    <img src="./Images/vanilla-icecream.jpg" alt="Vanilla Ice Cream">
+                    <p class="item-name">Vanilla Ice Cream</p>
+                    <p class="item-price">Price: Rs 59</p>
+                    <a href="/login" class="buy">Buy Now</a>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <script>
+        document.querySelectorAll(".buy").forEach(btn => {
+            btn.addEventListener("click", function (event) {
+                event.preventDefault();
+                alert("Please Login as a User to buy Products");
+            });
+        });
+    </script>
+</body>
+</html>
