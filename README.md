@@ -34,11 +34,11 @@
 
 ### 🍽️ Menu Layout
 ![Menu](Screenshot2.png)<br>
-(Screenshot3.png) <br>
-(Screenshot4.png) <br>
-(Screenshot5.png) <br>
-(Screenshot6.png) <br>
-(Screenshot7.png) <br>
+![Menu](Screenshot3.png) <br>
+![Menu](Screenshot4.png) <br>
+![Menu](Screenshot5.png) <br>
+![Menu](Screenshot6.png) <br>
+![Menu](Screenshot7.png) <br>
 
 ### ✅ Order Confirmation
 ![Order](screenshots/order-confirmation.png)
