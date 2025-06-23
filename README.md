@@ -42,15 +42,13 @@
 
 
 ### 🗺️ Locate Us
-Displays an interactive map section allowing users to find restaurant location.
-![Locate Us](screenshot8.png)
-![Locate Us](screenshot9.png)
+![Locate Us](screenshot8.png) <br>
+![Locate Us](screenshot9.png) <br>
 
 
 ### ℹ️ About Us
-Overview of the platform's mission and story.
-![About Us](screenshot10.png)
-![About Us](screenshot11.png)
+![About Us](screenshot10.png) <br>
+![About Us](screenshot11.png) <br>
 
 
 ### ✅ Order Confirmation
