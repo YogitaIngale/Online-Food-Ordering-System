@@ -30,7 +30,7 @@
 > Replace these paths with actual uploaded images in a `screenshots/` folder.
 
 ### 🏠 Homepage
-![Homepage](screenshot 1.png)
+![Homepage](Screenshot 1.png)
 
 ### 🍽️ Menu Layout
 ![Menu](screenshots/menu-section.png)
