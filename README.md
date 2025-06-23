@@ -42,13 +42,13 @@
 
 
 ### 🗺️ Locate Us
-![Locate Us](screenshot8.png) <br>
-![Locate Us](screenshot9.png) <br>
+![Locate Us](Screenshot8.png) <br>
+![Locate Us](Screenshot9.png) <br>
 
 
 ### ℹ️ About Us
-![About Us](screenshot10.png) <br>
-![About Us](screenshot11.png) <br>
+![About Us](Screenshot10.png) <br>
+![About Us](Screenshot11.png) <br>
 
 
 ### ✅ Order Confirmation
