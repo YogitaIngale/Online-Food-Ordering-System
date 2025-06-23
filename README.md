@@ -42,3 +42,11 @@
 
 ## 📂 Folder Structure
 
+NoshNest/
+│
+├── index.html # Frontend markup
+├── style.css # Custom styling
+├── script.js # Interactivity logic
+├── /backend # Java backend files
+├── /screenshots # App UI screenshots
+└── README.md # Project details
