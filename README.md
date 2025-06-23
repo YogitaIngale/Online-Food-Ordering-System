@@ -49,7 +49,22 @@
 ### ℹ️ About Us
 ![About Us](Screenshot10.png) <br>
 ![About Us](Screenshot11.png) <br>
+![About Us](Screenshot12.png) <br>
 
+
+---
+
+### 🔐 Login Page
+![Login](Screenshot13.png) <br>
+
+---
+
+### 🛠️ Admin Panel
+Admin dashboard to manage food items, orders, and users.
+![Admin Panel](screenshots/admin-panel.png)
+
+### 🛒 Placing an Order
+![Placing Order](Screenshot.png) <br>
 
 ### ✅ Order Confirmation
 ![Order](screenshots/order-confirmation.png)
