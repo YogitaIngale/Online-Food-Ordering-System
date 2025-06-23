@@ -40,6 +40,19 @@
 ![Menu](Screenshot6.png) <br>
 ![Menu](Screenshot7.png) <br>
 
+
+### 🗺️ Locate Us
+Displays an interactive map section allowing users to find restaurant location.
+![Locate Us](screenshot8.png)
+![Locate Us](screenshot9.png)
+
+
+### ℹ️ About Us
+Overview of the platform's mission and story.
+![About Us](screenshot10.png)
+![About Us](screenshot11.png)
+
+
 ### ✅ Order Confirmation
 ![Order](screenshots/order-confirmation.png)
 
