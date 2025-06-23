@@ -27,8 +27,6 @@
 
 ## 📸 Screenshots
 
-> Replace these paths with actual uploaded images in a `screenshots/` folder.
-
 ### 🏠 Homepage
 ![Homepage](Screenshot1.png)
 
@@ -40,11 +38,13 @@
 ![Menu](Screenshot6.png) <br>
 ![Menu](Screenshot7.png) <br>
 
+------
 
 ### 🗺️ Locate Us
 ![Locate Us](Screenshot8.png) <br>
 ![Locate Us](Screenshot9.png) <br>
 
+------
 
 ### ℹ️ About Us
 ![About Us](Screenshot10.png) <br>
@@ -52,12 +52,12 @@
 ![About Us](Screenshot12.png) <br>
 
 
----
+------
 
 ### 🔐 Login Page
 ![Login](Screenshot13.png) <br>
 
----
+------
 
 ### 🛠️ Admin Panel
 ![Admin Panel](Screenshot14.png) <br>
@@ -66,16 +66,17 @@
 ![Admin Panel](Screenshot17.png) <br>
 ![Admin Panel](Screenshot18.png) <br>
 
-----
+------
 ### 🛒 Placing an Order
 ![Placing Order](Screenshot19.png) <br>
 ![Placing Order](Screenshot20.png) <br>
 
+------
 
 ### ✅ Order Confirmation
 ![Order](Screenshot21.png)
 
----
+------
 
 ## 📂 Folder Structure
 
@@ -87,3 +88,5 @@ NoshNest/ <br>
 ├── /backend # Java backend files <br>
 ├── /screenshots # App UI screenshots <br>
 └── README.md # Project details <br>
+
+----------------------------
