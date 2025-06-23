@@ -44,9 +44,9 @@
 
 NoshNest/
 │
-├── index.html # Frontend markup
-├── style.css # Custom styling
-├── script.js # Interactivity logic
-├── /backend # Java backend files
-├── /screenshots # App UI screenshots
-└── README.md # Project details
+├── index.html # Frontend markup <br>
+├── style.css # Custom styling <br>
+├── script.js # Interactivity logic <br>
+├── /backend # Java backend files <br>
+├── /screenshots # App UI screenshots <br>
+└── README.md # Project details <br>
