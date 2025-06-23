@@ -60,14 +60,20 @@
 ---
 
 ### 🛠️ Admin Panel
-Admin dashboard to manage food items, orders, and users.
-![Admin Panel](screenshots/admin-panel.png)
+![Admin Panel](Screenshot14.png) <br>
+![Admin Panel](Screenshot15.png) <br>
+![Admin Panel](Screenshot16.png) <br>
+![Admin Panel](Screenshot17.png) <br>
+![Admin Panel](Screenshot18.png) <br>
 
+----
 ### 🛒 Placing an Order
-![Placing Order](Screenshot.png) <br>
+![Placing Order](Screenshot19.png) <br>
+![Placing Order](Screenshot20.png) <br>
+
 
 ### ✅ Order Confirmation
-![Order](screenshots/order-confirmation.png)
+![Order](Screenshot21.png)
 
 ---
 
