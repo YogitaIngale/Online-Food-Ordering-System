@@ -17,11 +17,11 @@
 
 ## 🛠️ Tech Stack
 
-| Layer       | Technologies                 |
-|-------------|------------------------------|
-| Frontend    | HTML5, CSS3, JavaScript      |
-| Backend     | Java (Core Java / Servlets)  |
-| UI/UX       | Flexbox, Grid, Responsive Design |
+| Layer       | Technologies                             |
+|-------------|------------------------------------------|
+| Frontend    | HTML5, CSS3, JavaScript                  |
+| Backend     | Java (Core Java, Spring Boot, Swing)     |
+| UI/UX       | Flexbox, Grid, Responsive Design         |
 
 ---
 
@@ -30,7 +30,7 @@
 > Replace these paths with actual uploaded images in a `screenshots/` folder.
 
 ### 🏠 Homepage
-![Homepage](Screenshot 1.png)
+![Homepage](Screenshot1.png)
 
 ### 🍽️ Menu Layout
 ![Menu](screenshots/menu-section.png)
