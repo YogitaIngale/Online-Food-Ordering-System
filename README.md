@@ -33,7 +33,7 @@
 ![Homepage](Screenshot1.png)
 
 ### 🍽️ Menu Layout
-![Menu](screenshots/menu-section.png)
+![Menu](Screenshot2.png)
 
 ### ✅ Order Confirmation
 ![Order](screenshots/order-confirmation.png)
