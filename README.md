@@ -42,8 +42,8 @@
 
 ## 📂 Folder Structure
 
-NoshNest/
-│
+NoshNest/ <br>
+│ <br>
 ├── index.html # Frontend markup <br>
 ├── style.css # Custom styling <br>
 ├── script.js # Interactivity logic <br>
